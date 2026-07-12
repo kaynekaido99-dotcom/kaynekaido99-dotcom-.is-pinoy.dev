@@ -1,12 +1,12 @@
 {
   "$schema": "https://raw.githubusercontent.com/is-pinoy-dev/ecosystem/main/packages/schemas/schema/v1/subdomain.schema.json",
-  "subdomain": "sanya",
+  "subdomain": "kaynekaido99-dotcom",
   "owner": {
-    "github": "snylum"
+    "github": "kaynekaido99-dotcom"
   },
   "records": {
     "CNAME": {
-      "value": "snylum.github.io./pinoydevportfolio."
+      "value": "kaynekaido99-dotcom.github.io."
     }
   }
 }
